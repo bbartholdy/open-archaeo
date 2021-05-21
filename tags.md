@@ -48,7 +48,7 @@ Statistical analysis|Identification and analysis of quantitative distribution pa
 |Bibliography|A list of scholarly work relevant to a particular topic.|
 |Archaeogenetics|Analysis of degraded DNA from archaeological or anthropological sources, including skeletons of humans, domesticate animal or plants, artefacts, or cave sediments.|
 |Bits and bobs|Tools that do not necessarily pertain to a specific archaeological activity, but which may be particularly useful in practical matters commonly faced by archaeologists.|
-|Physical anthropology|Concerned with the biological and behavioral aspects of human beings, their extinct hominin ancestors, and related non-human primates.
+|Biological anthropology|Concerned with the biological and behavioral aspects of human beings, their extinct hominin ancestors, and related non-human primates.
 |Archaeoastronomy||
 |Dendrochronology||
 |Photography||
